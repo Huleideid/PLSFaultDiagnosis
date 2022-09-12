@@ -5,6 +5,7 @@ import scipy.stats
 import matplotlib.pyplot as plt
 from scipy.linalg import fractional_matrix_power
 
+
 def autos(X):
     m = X.shape[0]
     n = X.shape[1]
